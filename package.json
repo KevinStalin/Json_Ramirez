@@ -1,0 +1,15 @@
+{
+    "name": "cargajson",
+    "version": "1.0.0",
+    "description": "cargar Json heroku",
+    "main": "carga.js",
+    "scripts": {
+        "start": "node carga.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Kevin Ramirez",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
